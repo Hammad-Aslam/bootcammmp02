@@ -7,7 +7,7 @@ function App() {
     <div>
       <h1>
         Hammad Aslam Says 
-        Assalam-o-Alikum
+        Assalam-o-Alikum!
       </h1>
       Salam to all
     </div>
